@@ -1,0 +1,23 @@
+{
+  "name": "AV Locals",
+  "short_name": "AV Locals",
+  "icons": [
+    {
+      "src": "manifest-icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "maskable any"
+    },
+    {
+      "src": "manifest-icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable any"
+    }
+  ],
+  "theme_color": "#7f1d1d",
+  "background_color": "#FFFFFF",
+  "start_url": "/",
+  "display": "standalone",
+  "orientation": "portrait-primary"
+}
