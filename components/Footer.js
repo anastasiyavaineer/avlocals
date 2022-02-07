@@ -17,7 +17,7 @@ export default function Footer() {
         <h2 className="text-sm">
           📍 Discover & Support <br /> Thriving Local Businesses 🪴
         </h2>
-        {/* <div className="py-4 flex text-2xl space-x-3">
+        <div className="py-4 flex text-2xl space-x-3">
           <a href="https://facebook.com/avlocals">
             <AiOutlineFacebook />
           </a>
@@ -27,7 +27,7 @@ export default function Footer() {
           <a href="https://twitter.com/avlocals">
             <AiOutlineTwitter />
           </a>
-        </div> */}
+        </div>
         <a href="mailto:hey@avlocals.com">
           <h4>hey@avlocals.com</h4>
         </a>
